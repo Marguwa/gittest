@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is file prod.txt
+=======
+3 file prod.txt
+>>>>>>> production
